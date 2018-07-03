@@ -6,11 +6,5 @@ Create a new branch is quick.
 Create a new branch is quick and simple.
 Do some things add merge.
 bug branch test.
-new 
 
-
-first git dev
-
-
-new test
 
